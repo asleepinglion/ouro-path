@@ -20,5 +20,5 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 
 */
 
-module.exports.Path = require('./modules/path/class');
+module.exports.Path = require('./lib/path/class');
 
