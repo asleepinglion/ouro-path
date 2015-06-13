@@ -1,15 +1,15 @@
 {
-  "name": "superjs-path",
+  "name": "ouro-path",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.3",
+  "version": "0.9.0",
   "description": "A simple module to maintain important application paths.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-path",
+  "repository": "https://github.com/asleepinglion/ouro-path",
   "dependencies": {
-    "superjs": "*"
+    "ouro": "*"
   },
   "license": "MIT"
 }
