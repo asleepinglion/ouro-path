@@ -4,12 +4,13 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A simple module to maintain important application paths.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/ouro-path",
   "dependencies": {
-    "ouro": "*"
+    "ouro": "*",
+    "ouro-base": "*"
   },
   "license": "MIT"
 }
